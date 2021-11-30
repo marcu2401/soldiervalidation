@@ -1,0 +1,1 @@
+INSERT INTO soldier (rank, birth, weapon, shotpeople, alive) VALUES ('sergeant', to_date('2001.01.01', 'yyyy.MM.dd'), 'MP-18', 11, true)
